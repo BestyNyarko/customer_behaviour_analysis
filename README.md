@@ -1,8 +1,10 @@
 # customer_behaviour_analysis
 End-to-end consumer analytics project using Python for data preparation, SQL for behavioural analysis, and Power BI for interactive dashboards and business insights.
+
 Data Analytics Project
 
 Overview
+
 This project analyzes consumer shopping behavior to uncover insights related to customer loyalty, purchasing patterns, pricing impact, and demand drivers. The goal is to transform raw consumer data into actionable business insights using a structured analytics workflow—from data preparation to interactive dashboards and executive reporting.
 
 The project demonstrates an end-to-end data analytics pipeline combining Python, SQL, Power BI, and presentation-ready reporting.
